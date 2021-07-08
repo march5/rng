@@ -21,7 +21,7 @@ Then I was supposed to create various generators with different distributions us
 To test the above generators I used the Kolmogorow-Smirnow Goodness of fit test, which compares the sample with a reference probability distribution.
 In the main program file there are some example tests for every generator (testG function, etc.).
 
-The generators could use some randomness test beside the distributions consistency tests, but I ran out of time for the project.
+The generators could use some randomness test beside the distributions consistency tests, but I ran out of time for the project because of the exams.
   
   
    
